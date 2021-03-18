@@ -1,0 +1,64 @@
+
+
+body {
+    background: rgba(70, 120, 80, .6);
+    background-image: url(https://i.makeagif.com/media/6-12-2016/mO8-NG.gif);
+    background-size: cover;
+    height: 100%vh;
+}
+
+#banner {
+    background-color: rgb(178, 192, 192, 0.5);
+
+    height: 25%;
+    width: 95%;
+    margin: 1%;
+}
+
+#banner2 {
+    background-color: cadetblue;
+    height: 25%;
+    width: 95%;
+    margin: 1%;
+    opacity: .7;
+}
+
+
+#banner2:hover {
+    opacity: 1;
+}
+
+
+#container {
+    height: 50%;
+    width: 93%;
+    opacity: .7;
+    background-color: honeydew;
+    margin: 2%;
+}
+
+#container:hover {
+    opacity: 1;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+}
+
+h2 {
+    color: black ;
+}
+
+h3,h4, a {
+    color: black;
+}
+
+.button {
+    margin-top: 5px;
+    padding: 10px;
+    height: 70px;
+    width: 200px;
+    color: red;
+    font-size: xx-large;
+}
